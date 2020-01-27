@@ -1,3 +1,3 @@
 boss(){
-    console.log("Im the big boss")
+    console.log("I'm the big boss")
 }
